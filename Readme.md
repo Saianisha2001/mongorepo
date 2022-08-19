@@ -4,5 +4,8 @@ I have create a seperate class jobstatus and used it as a List<Jobstatus> in the
 
 Cannot convert [[Document{{status=OPEN, code=0, lastupdateddate=1652083728001}}, Document{{status=CANCELLED, code=7, lastupdateddate=1652972346908}}], Document{{status=CANCELLED, code=7, lastupdateddate=1652972346908}}] of type class java.util.ArrayList into an instance of class com.demo.repo.model.Jobstatus! Implement a custom Converter<class java.util.ArrayList, class com.demo.repo.model.Jobstatus> and register it with the CustomConversions. Parent object was: com.demo.repo.model.JobTest@1d300839 -> null
 
+https://lankydan.dev/2017/05/29/embedded-documents-with-spring-data-and-mongodb
+I have used this as a reference
+
 
 	
