@@ -1,0 +1,448 @@
+[{
+  "_id": {
+    "$oid": "6278cc10006da1f744cb3189"
+  },
+  "jobidui": "JOBYOC2988838560",
+  "jobtitle": "Move the cases",
+  "noofcases": 200,
+  "creationdate": null,
+  "createdby": "Thomas",
+  "createdbyuid": "STP5wNgoJMhTm1XXG6XmpOcBbHS2",
+  "hasdeadline": true,
+  "jobnotes": null,
+  "storeid": "6273d52bdfb09565ddf5de30",
+  "storename": "Sheetz",
+  "storecode": "sheetz#258",
+  "storeavgratings": 3.5,
+  "storenoofratings": 30,
+  "address": "1312 SOUTH MAIN STREET",
+  "city": "GREENSBURG",
+  "state": "PA",
+  "zipcode": 15601,
+  "coordinates": {
+    "longitude": -91.840134,
+    "latitude": 35.222063
+  },
+  "storephoneno": 4632573,
+  "jobstatus": [
+    {
+      "status": "OPEN",
+      "code": 0,
+      "lastupdateddate": 16529723
+    },
+    [
+      [
+        {
+          "status": "OPEN",
+          "code": 0,
+          "lastupdateddate": 1652083728001
+        },
+        {
+          "status": "CANCELLED",
+          "code": 7,
+          "lastupdateddate": 1652972346908
+        }
+      ],
+      {
+        "status": "CANCELLED",
+        "code": 7,
+        "lastupdateddate": 1652972346908
+      }
+    ]
+  ],
+  "proofofwork": null,
+  "ratepercase": 0.6,
+  "bookingfee": 89,
+  "yodecopercentage": 0,
+  "totalcostforcases": 120,
+  "netpaystore": 209,
+  "netpaymerch": 120,
+  "merchuid": null,
+  "merchname": null,
+  "merchphoto": null,
+  "merchavgratings": null,
+  "merchphoneno": null,
+  "merchtimeslot": null,
+  "merchsuccessfulljobs": null,
+  "orgid": null,
+  "merchfeedback": null,
+  "storefeedback": null,
+  "jobcompletiondate": null,
+  "invoiceid": null,
+  "invoiceurl": null,
+  "cancellationfee": null,
+  "storeworkinghours": "",
+  "rejectreason": null,
+  "ismerchremainded": false,
+  "laststatusupdateddate": 1653551622054,
+  "currentstatus": 5,
+  "jobcurrentstatus": "CANCELLED",
+  "invoicecreationdates": 1652971578483,
+  "invoicecreationdate": null
+},{
+  "_id": {
+    "$oid": "6278cca8006da1f744cb318a"
+  },
+  "jobidui": "JOBYOC745145337",
+  "jobtitle": "Move the cases",
+  "noofcases": 200,
+  "creationdate": 1652083879878,
+  "createdby": "Thomas",
+  "createdbyuid": "STP5wNgoJMhTm1XXG6XmpOcBbHS2",
+  "hasdeadline": true,
+  "jobnotes": null,
+  "storeid": "6254e3586543a7e6dbe4770d",
+  "storename": "Sheetz",
+  "storecode": "Sheetz#549",
+  "storeavgratings": 3.5,
+  "storenoofratings": 30,
+  "address": "1312 SOUTH MAIN STREET",
+  "city": "GREENSBURG",
+  "state": "PA",
+  "zipcode": 15601,
+  "coordinates": {
+    "longitude": -92.033633,
+    "latitude": 35.263562
+  },
+  "storephoneno": 4632573,
+  "jobstatus": [
+    {
+      "status": "CANCELLED",
+      "code": 9,
+      "lastupdateddate": 1653559263804,
+      "concatArrays": [
+        [
+          {
+            "status": "CANCELLED",
+            "code": 9,
+            "lastupdateddate": 1653559263804
+          },
+          {
+            "status": "OPEN",
+            "code": 0,
+            "lastupdateddate": 16529723
+          },
+          {
+            "status": "OPEN",
+            "code": 0,
+            "lastupdateddate": 1652083879878
+          }
+        ],
+        [
+          {
+            "status": "APPP",
+            "code": 10,
+            "lastupdateddate": 16529723
+          }
+        ]
+      ]
+    },
+    {
+      "status": "OPEN",
+      "code": 0,
+      "lastupdateddate": 16529723,
+      "concatArrays": [
+        [
+          {
+            "status": "CANCELLED",
+            "code": 9,
+            "lastupdateddate": 1653559263804
+          },
+          {
+            "status": "OPEN",
+            "code": 0,
+            "lastupdateddate": 16529723
+          },
+          {
+            "status": "OPEN",
+            "code": 0,
+            "lastupdateddate": 1652083879878
+          }
+        ],
+        [
+          {
+            "status": "APPP",
+            "code": 10,
+            "lastupdateddate": 16529723
+          }
+        ]
+      ]
+    },
+    {
+      "status": "OPEN",
+      "code": 0,
+      "lastupdateddate": 1652083879878,
+      "concatArrays": [
+        [
+          {
+            "status": "CANCELLED",
+            "code": 9,
+            "lastupdateddate": 1653559263804
+          },
+          {
+            "status": "OPEN",
+            "code": 0,
+            "lastupdateddate": 16529723
+          },
+          {
+            "status": "OPEN",
+            "code": 0,
+            "lastupdateddate": 1652083879878
+          }
+        ],
+        [
+          {
+            "status": "APPP",
+            "code": 10,
+            "lastupdateddate": 16529723
+          }
+        ]
+      ]
+    },
+    {
+      "status": "APPP",
+      "code": 10,
+      "lastupdateddate": 16529723
+    },
+    {
+      "status": "CANCELLED",
+      "code": 7,
+      "lastupdateddate": 1652972346908
+    }
+  ],
+  "proofofwork": null,
+  "ratepercase": 0.6,
+  "bookingfee": 89,
+  "yodecopercentage": 0,
+  "totalcostforcases": 120,
+  "netpaystore": 209,
+  "netpaymerch": 120,
+  "merchuid": null,
+  "merchname": null,
+  "merchphoto": null,
+  "merchavgratings": null,
+  "merchphoneno": null,
+  "merchtimeslot": null,
+  "merchsuccessfulljobs": null,
+  "orgid": null,
+  "merchfeedback": null,
+  "storefeedback": null,
+  "jobcompletiondate": null,
+  "invoiceid": null,
+  "invoiceurl": null,
+  "cancellationfee": null,
+  "storeworkinghours": "",
+  "rejectreason": null,
+  "ismerchremainded": false,
+  "laststatusupdateddate": 1652972346908,
+  "currentstatus": 7,
+  "jobcurrentstatus": "CANCELLED",
+  "invoicecreationdate": 1652083879878,
+  "invoicecreationdates": 1652083879878
+},{
+  "_id": {
+    "$oid": "6278cdd3a6385d0243b87c9a"
+  },
+  "jobidui": "JOBYOC1642142048",
+  "jobtitle": "Move the cases",
+  "noofcases": 200,
+  "creationdate": 1652857511000,
+  "createdby": "Thomas",
+  "createdbyuid": "STP5wNgoJMhTm1XXG6XmpOcBbHS2",
+  "hasdeadline": true,
+  "jobnotes": null,
+  "storeid": "6254e3586543a7e6dbe4770d",
+  "storename": "Sheetz",
+  "storecode": "Sheetz#549",
+  "storeavgratings": 3.5,
+  "storenoofratings": 30,
+  "address": "1312 SOUTH MAIN STREET",
+  "city": "GREENSBURG",
+  "state": "PA",
+  "zipcode": 15601,
+  "coordinates": {
+    "longitude": -91.838496,
+    "latitude": 35.009752
+  },
+  "storephoneno": 4632573,
+  "jobstatus": [
+    {
+      "status": "OPEN",
+      "code": 0,
+      "lastupdateddate": 1652084179587
+    },
+    {
+      "status": "CANCELLED",
+      "code": 9,
+      "lastupdateddate": 1653551622054
+    }
+  ],
+  "proofofwork": null,
+  "ratepercase": 0.6,
+  "bookingfee": 89,
+  "yodecopercentage": 0,
+  "totalcostforcases": 120,
+  "netpaystore": 209,
+  "netpaymerch": 120,
+  "merchuid": null,
+  "merchname": null,
+  "merchphoto": null,
+  "merchavgratings": null,
+  "merchphoneno": null,
+  "merchtimeslot": null,
+  "merchsuccessfulljobs": null,
+  "orgid": null,
+  "merchfeedback": null,
+  "storefeedback": null,
+  "jobcompletiondate": null,
+  "invoiceid": null,
+  "invoiceurl": null,
+  "cancellationfee": null,
+  "storeworkinghours": "",
+  "rejectreason": null,
+  "ismerchremainded": false,
+  "laststatusupdateddate": 1653551622054,
+  "currentstatus": 9,
+  "jobcurrentstatus": "CANCELLED",
+  "invoicecreationdate": 1652857511000,
+  "invoicecreationdates": 1652857511000
+},{
+  "_id": {
+    "$oid": "6278ce53f7c044dea1afdb25"
+  },
+  "jobidui": "JOBYOC2833453190",
+  "jobtitle": "Move the cases",
+  "noofcases": 200,
+  "creationdate": 1652083879878,
+  "createdby": "Thomas",
+  "createdbyuid": "STP5wNgoJMhTm1XXG6XmpOcBbHS2",
+  "hasdeadline": true,
+  "jobnotes": null,
+  "storeid": "6254e3586543a7e6dbe4770d",
+  "storename": "Sheetz",
+  "storecode": "Sheetz#549",
+  "storeavgratings": 3.5,
+  "storenoofratings": 30,
+  "address": "1312 SOUTH MAIN STREET",
+  "city": "GREENSBURG",
+  "state": "PA",
+  "zipcode": 15601,
+  "coordinates": {
+    "longitude": -91.627808,
+    "latitude": 35.329131
+  },
+  "storephoneno": 4632573,
+  "jobstatus": [
+    {
+      "status": "OPEN",
+      "code": 0,
+      "lastupdateddate": 1652084306884
+    },
+    {
+      "status": "CANCELLED",
+      "code": 9,
+      "lastupdateddate": 1653551622054
+    },
+    {
+      "status": "OPEN",
+      "code": 0,
+      "lastupdateddate": 1652972346908
+    }
+  ],
+  "proofofwork": null,
+  "ratepercase": 0.6,
+  "bookingfee": 89,
+  "yodecopercentage": 0,
+  "totalcostforcases": 120,
+  "netpaystore": 209,
+  "netpaymerch": 120,
+  "merchuid": null,
+  "merchname": null,
+  "merchphoto": null,
+  "merchavgratings": null,
+  "merchphoneno": null,
+  "merchtimeslot": null,
+  "merchsuccessfulljobs": null,
+  "orgid": null,
+  "merchfeedback": null,
+  "storefeedback": null,
+  "jobcompletiondate": null,
+  "invoiceid": null,
+  "invoiceurl": null,
+  "cancellationfee": null,
+  "storeworkinghours": "",
+  "rejectreason": null,
+  "ismerchremainded": false,
+  "laststatusupdateddate": 1652972346908,
+  "currentstatus": 0,
+  "jobcurrentstatus": "OPEN",
+  "invoicecreationdate": 1652083879878,
+  "invoicecreationdates": 1652083879878
+},{
+  "_id": {
+    "$oid": "6278cf60ba5d2c3e0bd98cbc"
+  },
+  "jobidui": "JOBYOC2100943370",
+  "jobtitle": "Move the cases",
+  "noofcases": 200,
+  "creationdate": 1653559250000,
+  "createdby": "Thomas",
+  "createdbyuid": "STP5wNgoJMhTm1XXG6XmpOcBbHS2",
+  "hasdeadline": true,
+  "jobnotes": null,
+  "storeid": "6254e3586543a7e6dbe4770d",
+  "storename": "Sheetz",
+  "storecode": "Sheetz#549",
+  "storeavgratings": 3.5,
+  "storenoofratings": 30,
+  "address": "1312 SOUTH MAIN STREET",
+  "city": "GREENSBURG",
+  "state": "PA",
+  "zipcode": 15601,
+  "coordinates": {
+    "longitude": -96.838496,
+    "latitude": 35.009752
+  },
+  "storephoneno": 4632573,
+  "jobstatus": [
+    {
+      "status": "JOB_PICKED_UP",
+      "code": 1,
+      "lastupdateddate": 1652084576759
+    },
+    {
+      "status": "CANCELLED_BY_MERCH",
+      "code": 11,
+      "lastupdateddate": 1653667222466
+    }
+  ],
+  "proofofwork": null,
+  "ratepercase": 0.6,
+  "bookingfee": 89,
+  "yodecopercentage": 0,
+  "totalcostforcases": 120,
+  "netpaystore": 209,
+  "netpaymerch": 120,
+  "merchuid": "asdmlknc1233",
+  "merchname": "sandy",
+  "merchphoto": null,
+  "merchavgratings": null,
+  "merchphoneno": null,
+  "merchtimeslot": null,
+  "merchsuccessfulljobs": null,
+  "orgid": null,
+  "merchfeedback": null,
+  "storefeedback": null,
+  "jobcompletiondate": null,
+  "invoiceid": null,
+  "invoiceurl": null,
+  "cancellationfee": null,
+  "storeworkinghours": null,
+  "rejectreason": null,
+  "ismerchremainded": false,
+  "laststatusupdateddate": 1653667222466,
+  "currentstatus": 11,
+  "jobcurrentstatus": "CANCELLED_BY_MERCH",
+  "invoicecreationdate": 1653559250000,
+  "invoicecreationdates": 1653559250000
+}]
